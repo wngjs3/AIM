@@ -1,6 +1,6 @@
-# AIM (Intentional Computing App)
+# AIM (Aligned Intention Monitoring)
 
-AIM is an AI-powered focus management application that helps users practice intentional computing. It captures screens periodically and analyzes whether the user's current activity aligns with their set goals using LLM analysis, providing real-time feedback.
+AIM is an AI-powered focus management application that helps users practice intentional computing by monitoring the alignment between their activities and intentions. It captures screens periodically and analyzes whether the user's current activity aligns with their set goals using LLM analysis, providing real-time feedback.
 
 ## Key Features
 
