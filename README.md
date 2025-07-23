@@ -173,9 +173,13 @@ LOCAL_BASE_URL = "your-llm-api-endpoint-here"
 
 ## App Modes
 
-- **FULL (Purple)**: Provides complete functionality with real-time feedback and notifications
-- **REMINDER (Blue)**: Provides only periodic reminder notifications
-- **BASIC (Orange)**: Performs basic monitoring with minimal UI feedback
+The application comes in three versions for experimental research purposes:
+
+- **FULL (Purple)**: **Main AIM Application** - Provides complete functionality with real-time feedback and notifications
+- **REMINDER (Blue)**: **Control Group** - Provides only periodic reminder notifications for comparison studies
+- **BASIC (Orange)**: **Baseline Group** - Performs basic monitoring with minimal UI feedback for comparison studies
+
+> **Note**: Purple is the primary AIM application, while Blue and Orange versions are designed for experimental comparison and research studies.
 
 ## License
 

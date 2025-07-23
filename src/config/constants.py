@@ -63,6 +63,7 @@ IMAGE_SCALE = (
 )
 
 # LLM Settings
+
 LLM_INVOKE_INTERVAL = 2
 LLM_ANALYSIS_IMAGE_COUNT = 1  # Always analyze only 1 image (most recent)
 LLM_INTERVAL = 2
